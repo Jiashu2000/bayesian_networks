@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.1.30)  6 FEB 2024 15:46
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.1.30)  6 FEB 2024 20:14
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/Users/jiashu/Desktop/Capstone/bayesian_networks/bayesian_networks.tex
-(/Users/jiashu/Desktop/Capstone/bayesian_networks/bayesian_networks.tex
+**/Users/jiashu/Desktop/Capstone/bayesian_networks/bn_representation/bn_representation.tex
+(/Users/jiashu/Desktop/Capstone/bayesian_networks/bn_representation/bn_representation.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-22>
 (/usr/local/texlive/2023/texmf-dist/tex/latex/base/report.cls
@@ -777,8 +777,8 @@ File: t1ntxtlf.fd 2021/05/24 v1.1 font definition file for T1/ntx/tlf
 )
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
 (Font)              scaled to size 10.95pt on input line 119.
- (./bayesian_networks.aux)
-\openout1 = `bayesian_networks.aux'.
+ (./bn_representation.aux)
+\openout1 = `bn_representation.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/ntxmi/m/it on input line 119.
 LaTeX Font Info:    Trying to load font information for OML+ntxmi on input line 119.
@@ -887,9 +887,9 @@ Package caption Info: End \AtBeginDocument code.
 
 \c@lstlisting=\count357
 Package hyperref Info: Link coloring ON on input line 119.
-(./bayesian_networks.out) (./bayesian_networks.out)
+(./bn_representation.out) (./bn_representation.out)
 \@outlinefile=\write4
-\openout4 = `bayesian_networks.out'.
+\openout4 = `bn_representation.out'.
 
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
 (Font)              scaled to size 12.0pt on input line 131.
@@ -908,7 +908,7 @@ LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
 (Font)              scaled to size 24.88pt on input line 154.
 LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
 (Font)              scaled to size 24.88pt on input line 154.
- (./bayesian_networks.toc
+ (./bn_representation.toc
 LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
 (Font)              scaled to size 10.95pt on input line 1.
 LaTeX Font Info:    Trying to load font information for OT1+minntx on input line 2.
@@ -935,7 +935,7 @@ l.29 ...mmary: What is the Goal?}{19}{section.6.4}
 
 ])
 \tf@toc=\write5
-\openout5 = `bayesian_networks.toc'.
+\openout5 = `bn_representation.toc'.
 
  [2{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/newtx/ntx-ot1-tlf.enc}]
 Chapter 1.
@@ -1292,24 +1292,24 @@ Package pdftex.def Info: ./pics/bay1.png  used on input line 1059.
 
  <./pics/bay2.png> <./pics/bay1.png>] 
 enddocument/afterlastpage: lastpage setting LastPage.
-(./bayesian_networks.aux)
+(./bn_representation.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2020/03/25>
  ***********
-Package rerunfilecheck Info: File `bayesian_networks.out' has not changed.
+Package rerunfilecheck Info: File `bn_representation.out' has not changed.
 (rerunfilecheck)             Checksum: A2FA6C87C0BFEA7CC761186723E6915D;6826.
  ) 
 Here is how much of TeX's memory you used:
  29010 strings out of 474228
- 518804 string characters out of 5746458
+ 518858 string characters out of 5746458
  1939975 words of memory out of 5000000
  50662 multiletter control sequences out of 15000+600000
  635285 words of font info for 131 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 99i,17n,117p,532b,690s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 99i,17n,117p,550b,690s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/newtx/NewTXMI.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/newtx/NewTXMI5.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/newtx/NewTXMI7.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/tex-gyre/qtmr.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/newtx/txexs.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/newtx/txmiaX.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/newtx/txsys.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/newtx/ztmb.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/newtx/ztmr.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/newtx/ztmri.pfb>
-Output written on bayesian_networks.pdf (28 pages, 2965170 bytes).
+Output written on bn_representation.pdf (28 pages, 2965170 bytes).
 PDF statistics:
  495 PDF objects out of 1000 (max. 8388607)
  360 compressed objects within 4 object streams
